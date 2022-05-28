@@ -1,0 +1,30 @@
+base_url = "https://zentreax.github.io"
+title = "zentreax"
+build_search_index = true
+generate_feed = true
+minify_html = true
+
+theme = "apollo"
+
+[markdown]
+highlight_code = true
+highlight_theme = "ayu-dark"
+
+[extra]
+use_cdn = false
+theme = "auto"      
+
+menu = [
+    { name = "/posts", url= "/posts", weight= 1 },
+    { name= "/projects", url= "/projects", weight= 2 },
+    { name= "/about", url= "/about", weight= 3 },
+]
+
+socials = [
+    { name= "twitter", url= "https://twitter.com/zentreaxdev", icon= "twitter" },
+    { name= "github", url= "https=//github.com/zentreax/", icon = "github" },
+]
+
+[extra.analytics]
+enabled = true
+goatcounter_user = "not-matthias"
