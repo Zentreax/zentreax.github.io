@@ -10,7 +10,7 @@ So I did the only reasonable thing: **Automate it**. My friend used [puppeteer](
 
 <img src="https://user-images.githubusercontent.com/26800596/168480566-89c9c935-20e3-4745-ba34-0a5a8236489d.png" width="600" style="display: block; margin: auto">
 
-# Where to start? 
+# Where to ? 
 
 When you've only got a UI, it's always hard to know where to start. There are a bunch of places to look. Since Discord uses [Electron](https://www.electronjs.org) we can either look through the files on disk or in the browser. 
 We'd only go for the first option, if we know that the feature can only be accessed on the desktop application. An example for that would be the Discord overlay. But since the party mode also works in the browser, we can start there. 
