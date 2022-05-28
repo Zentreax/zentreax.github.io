@@ -21,8 +21,6 @@ I always enjoy a good conversation, so feel free to DM me anytime :)
 <br />
 <br />
 <br />
-<br />
-<br />
 
 # More
 - Placed top 5 in the Advent of Code 2018 [Plexi Development](https://discord.gg/plexidev) leaderboard.
