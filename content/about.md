@@ -43,3 +43,7 @@ I always enjoy a good conversation, so feel free to DM me anytime :)
 - Offensive Security: [ Penetration Testing with Kali Linux (2022)](https://www.offensive-security.com/pwk-oscp/)
 - Offensive Security: [Advanced Web Attacks and Exploitation (2020)](https://www.offensive-security.com/awae-oswe/)
 - Udemy: [Windows Privilege Escalation for OSCP & Beyond!](https://www.udemy.com/course/windows-privilege-escalation/)
+
+<br />
+<br />
+<br />
