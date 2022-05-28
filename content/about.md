@@ -3,20 +3,39 @@ title = "About"
 path = "about"
 +++
 
-Hey, I'm @not-matthias. I'm interested in:
-- Software Engineering (Rust, C++, React, Vue, ...)
-- Artifical Intelligence ([GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network), [ML](https://en.wikipedia.org/wiki/Machine_learning), [DL](https://en.wikipedia.org/wiki/Deep_learning), ...)
-- Computer Vision
-- Reverse Engineering
-- Software Security
-- Game Modding
+Hey, I'm Zentreax. I'm interested in:
+- Programming (Java, Python, JS)
+- Cyber Security 
 
-I'm currenty studying Computer Science at the [Johannes Kepler University Linz](https://jku.at), Austria. In my spare time I enjoy working on side projects, contributing to open source, and reading. I'm also a big fan of the [Rust programming language](https://www.rust-lang.org). On this blog I write about projects I'm working on as well as general topics I'm interested in.
+I'm currenty 17 years old and live in Germany. In my spare time, I enjoy working on side projects, contributing to open source, making music, and web-designing. On this blog I'm publishing writeups/walkthroughs as well as projects I'm interested in.
 
 # Contact
 
-Twitter: [https://twitter.com/not_matthias](https://twitter.com/not_matthias) <br />
-Github: [https://github.com/not-matthias](https://github.com/not-matthias) <br />
-Discord: not-matthias#1403 <br />
+Twitter: [https://twitter.com/zentreaxdev](https://twitter.com/zentreaxdev) <br />
+Github: [https://github.com/zentreax](https://github.com/zentreax) <br />
+Discord: Zentreax#8277 <br />
+E-Mail: zen@zentreax.dev <br />
 
 I always enjoy a good conversation, so feel free to DM me anytime :)
+
+# More
+- Placed top 5 in the Advent of Code 2018 [Plexi Development](https://discord.gg/plexidev) leaderboard.
+- Placed top 3 in the Advent of Code 2021 [Plexi Development](https://discord.gg/plexidev) leaderboard.
+- Placed top 20 in [RUSecure CTF](https://rusecurectf.radford.edu/)
+- Was rank 10 EU on [HackTheBox](https://hackthebox.com/) & in the current top 3 Team.
+*^ Also got featured in [Metasploit](https://www.metasploit.com/) :P*
+- Currently doing [Offshore Pro Lab](https://www.hackthebox.com/hacker/pro-labs)
+- Completed [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
+- Completed [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
+
+# Posts & Resources
+[OSINT / OPSec: First Lessons (My Way)](https://0x00sec.org/t/osint-opsec-first-lessons-my-way/16633)
+[TryHackMe: Bounty Hacker [Writeup]](https://zentreax.medium.com/tryhackme-bounty-hacker-writeup-f828230d1866)
+[TryHackMe: Agent Sudo [Writeup]](https://zentreax.medium.com/tryhackme-agent-sudo-writeup-74e79473e2da)
+[TryHackMe: Vulnnet: Node [Writeup]](https://zentreax.medium.com/tryhackme-vulnnet-node-writeup-59a06d553152)
+[Broken Access Control - Access to sensitive data](https://twitter.com/zentreaxdev/status/1319720001457324038)
+
+# Courses taken
+- Offensive Security: [ Penetration Testing with Kali Linux (2022)](https://www.offensive-security.com/pwk-oscp/)
+- Offensive Security: [Advanced Web Attacks and Exploitation (2020)](https://www.offensive-security.com/awae-oswe/)
+- Udemy: [Windows Privilege Escalation for OSCP & Beyond!](https://www.udemy.com/course/windows-privilege-escalation/)
