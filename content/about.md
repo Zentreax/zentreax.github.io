@@ -7,7 +7,7 @@ Hey, I'm Zentreax. I'm interested in:
 - Programming (Java, Python, JS)
 - Cyber Security 
 
-I'm currenty 17 years old and live in Germany. In my spare time, I enjoy working on side projects, contributing to open source, making music, and web-designing. On this blog I'm publishing writeups/walkthroughs as well as projects I'm interested in.
+I'm currenty 18 years old and live in Germany. In my spare time, I enjoy working on side projects, contributing to open source, making music, and web-designing. On this blog I'm publishing writeups/walkthroughs as well as projects I'm interested in.
 
 # Contact
 
