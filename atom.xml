@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>zentreax</title>
+	<link href="https://zentreax.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://zentreax.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-05-28T00:00:00+00:00</updated>
+	<id>https://zentreax.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>test</title>
+		<published>2022-05-28T00:00:00+00:00</published>
+		<updated>2022-05-28T00:00:00+00:00</updated>
+		<link href="https://zentreax.github.io/posts/test/" type="text/html"/>
+		<id>https://zentreax.github.io/posts/test/</id>
+		<content type="html">&lt;p&gt;Test&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>test2</title>
+		<published>2022-05-28T00:00:00+00:00</published>
+		<updated>2022-05-28T00:00:00+00:00</updated>
+		<link href="https://zentreax.github.io/posts/test2/" type="text/html"/>
+		<id>https://zentreax.github.io/posts/test2/</id>
+		<content type="html">&lt;p&gt;Test2&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

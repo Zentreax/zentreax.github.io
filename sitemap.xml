@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://zentreax.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://zentreax.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://zentreax.github.io/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://zentreax.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://zentreax.github.io/posts/test/</loc>
+        <lastmod>2022-05-28</lastmod>
+    </url>
+    <url>
+        <loc>https://zentreax.github.io/posts/test2/</loc>
+        <lastmod>2022-05-28</lastmod>
+    </url>
+    <url>
+        <loc>https://zentreax.github.io/projects/</loc>
+    </url>
+</urlset>
