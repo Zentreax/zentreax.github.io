@@ -16,18 +16,21 @@ Github: [https://github.com/zentreax](https://github.com/zentreax) <br />
 Discord: Zentreax#8277 <br />
 E-Mail: zen@zentreax.dev <br />
 
+HackTheBox: https://app.hackthebox.com/profile/109256
+TryHackMe: https://tryhackme.com/p/Zentreax
 I always enjoy a good conversation, so feel free to DM me anytime :)
 
 <br />
 <br />
 
 # More
-- Placed top 5 in the Advent of Code 2018 [Plexi Development](https://discord.gg/plexidev) leaderboard.
-- Placed top 3 in the Advent of Code 2021 [Plexi Development](https://discord.gg/plexidev) leaderboard.
-- Placed top 20 in [RUSecure CTF](https://rusecurectf.radford.edu/)
+- [TryHackMe](https://tryhackme.com/) top 1%.
 - Was rank 10 EU on [HackTheBox](https://hackthebox.com/) & in the current top 3 Team. <br />
 *^ Also got featured in [Metasploit](https://www.metasploit.com/) :P*
+- Placed top 20 in [RUSecure CTF](https://rusecurectf.radford.edu/)
 - Currently doing [Offshore Pro Lab](https://www.hackthebox.com/hacker/pro-labs)
+- Placed top 5 in the Advent of Code 2018 [Plexi Development](https://discord.gg/plexidev) leaderboard.
+- Placed top 3 in the Advent of Code 2021 [Plexi Development](https://discord.gg/plexidev) leaderboard.
 - Completed [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 - Completed [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
 
@@ -39,7 +42,7 @@ I always enjoy a good conversation, so feel free to DM me anytime :)
 [Broken Access Control - Access to sensitive data](https://twitter.com/zentreaxdev/status/1319720001457324038) <br />
 
 # Courses taken
-- Offensive Security: [ Penetration Testing with Kali Linux (2022)](https://www.offensive-security.com/pwk-oscp/)
+- Offensive Security: [ Penetration Testing with Kali Linux (2020)](https://www.offensive-security.com/pwk-oscp/)
 - Offensive Security: [Advanced Web Attacks and Exploitation (2020)](https://www.offensive-security.com/awae-oswe/)
 - Udemy: [Windows Privilege Escalation for OSCP & Beyond!](https://www.udemy.com/course/windows-privilege-escalation/)
 
