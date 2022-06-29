@@ -16,8 +16,8 @@ Github: [https://github.com/zentreax](https://github.com/zentreax) <br />
 Discord: Zentreax#8277 <br />
 E-Mail: zen@zentreax.dev <br />
 
-HackTheBox: https://app.hackthebox.com/profile/109256
-TryHackMe: https://tryhackme.com/p/Zentreax
+HackTheBox: [https://app.hackthebox.com/profile/109256](https://app.hackthebox.com/profile/109256) <br />
+TryHackMe: [https://tryhackme.com/p/Zentreax](https://tryhackme.com/p/Zentreax) <br />
 I always enjoy a good conversation, so feel free to DM me anytime :)
 
 <br />
@@ -45,6 +45,12 @@ I always enjoy a good conversation, so feel free to DM me anytime :)
 - Offensive Security: [ Penetration Testing with Kali Linux (2020)](https://www.offensive-security.com/pwk-oscp/)
 - Offensive Security: [Advanced Web Attacks and Exploitation (2020)](https://www.offensive-security.com/awae-oswe/)
 - Udemy: [Windows Privilege Escalation for OSCP & Beyond!](https://www.udemy.com/course/windows-privilege-escalation/)
+
+# Books read
+- [The Hacker Playbook 3 (Red Team Edition)](https://securepla.net/hacker-playbook/)
+- [The Hacker Playbook 2](https://securepla.net/hacker-playbook/)
+- [Hacking & Security](https://www.rheinwerk-verlag.de/hacking-und-security-das-umfassende-handbuch/)
+- [Social Engineering: The Science of Human Hacking](https://www.amazon.com/Social-Engineering-Science-Human-Hacking/dp/111943338X/ref=pd_sbs_14_1/142-2457311-3343405?_encoding=UTF8&pd_rd_i=111943338X&pd_rd_r=a31ac774-3d82-4075-add1-368b000d533e&pd_rd_w=J6xsX&pd_rd_wg=Orrsd&pf_rd_p=ff9b5089-1414-4e8f-9675-3397e98bf276&pf_rd_r=ER4VKHJ0QMZME1A279Y9&psc=1&refRID=ER4VKHJ0QMZME1A279Y9)
 
 <br />
 <br />
